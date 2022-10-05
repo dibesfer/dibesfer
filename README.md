@@ -1,4 +1,4 @@
-- 👋 Hi, I’m #dibesfer#
+# 👋 Hi, I’m dibesfer
 - 👀 I’m interested in CODING and ART
 - 🌱 I’m currently learning VUE.JS
 - 💞️ I’m looking to collaborate on VIDEOGAMES and WEB APPS
