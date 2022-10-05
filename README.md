@@ -8,7 +8,7 @@ website: https://ferranminero.github.io
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibesfer&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibesfer&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibesfer&layout=compact&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
