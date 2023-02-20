@@ -1,7 +1,7 @@
 # 👋 Hi, I’m dibesfer
-- 👀 I’m interested in CODING and ART
-- 🌱 I’m currently learning VUE.JS
-- 💞️ I’m looking to collaborate on VIDEOGAMES and WEB APPS
+- 👀 Interested in CODING and ART
+- 🌱 Learning UNITY & WEB APPS
+- 💞️ Collaborating on VIDEOGAMES
 - 📫 Reach me out at dibesfer@gmail.com
 
 website: https://dibesfer.com
