@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on VIDEOGAMES and WEB APPS
 - 📫 Reach me out at dibesfer@gmail.com
 
-website: https://dibesfer.github.io
+website: https://dibesfer.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibesfer&show_icons=true&theme=radical)
 
