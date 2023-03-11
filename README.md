@@ -4,7 +4,7 @@
 - 💞️ Collaborating on VIDEOGAMES
 - 📫 Reach me out at dibesfer@gmail.com
 
-website: [https://dibesfer.com](dibesfer.com)
+website: [dibesfer.com](https://dibesfer.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibesfer&show_icons=true&theme=radical)
 
